@@ -4,7 +4,7 @@ import './Body.css'
 function Body() {
   
     return (
-       
+        <div className='container-body'>
                 <Carousel>
     <Carousel.Item>
     <img src={require('./jaleco.webp')} alt="Imagem do carrossel" className='imagens'/>
@@ -31,7 +31,8 @@ function Body() {
     </Carousel.Item>
   </Carousel>
 
-        
+        </div>
+
   );
 }
 

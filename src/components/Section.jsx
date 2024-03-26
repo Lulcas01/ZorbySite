@@ -6,7 +6,7 @@ const Section = () => {
   
       <section id="home">
        
-        <Body />
+   
       </section>
   );
 }
