@@ -1,0 +1,25 @@
+.Button {
+    background-color: chartreuse;
+    height: 30px;
+    padding: 0 10px;
+    border-radius: 5px;
+    width: 10%;
+    font-size: 16px;
+    color: #444;
+    cursor: pointer;
+    border: none;
+display: center;
+padding-top: 10px;
+}
+.options {
+    display: center;
+    justify-content: space-between; /* Alterado */
+    padding-bottom: 50px;
+  
+  }
+  
+  .options button {
+    margin-left: 10px; /* Adicionado */
+
+  }
+  

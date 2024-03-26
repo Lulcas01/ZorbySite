@@ -1,0 +1,30 @@
+@font-face {
+  font-family: Quicksand-light;
+  src: url(./Quicksand-Light.ttf);
+}
+@font-face {
+  font-family: Tit;
+  src: url(./TitilliumWeb-Light.ttf);
+}
+
+
+.container-metas {
+ margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.Tit{
+  font-family: Tit;
+}
+.container_p {
+  text-align: center;
+  width: 700px;
+}
+.quicksand{
+  font-family: Quicksand-light;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}

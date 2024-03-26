@@ -1,0 +1,12 @@
+section .title{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: chartreuse;
+    
+
+}
+.pa{
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

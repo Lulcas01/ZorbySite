@@ -1,0 +1,48 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #000000;
+  color: #000000;
+  padding: 0px;
+}
+header .LogoHeader{
+  width: 5%;
+  height: 5%;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 70px;
+}
+
+nav ul li a {
+  color: #000000;
+  text-decoration: none;
+}
+
+section {
+  padding: 10px;
+}
+
+h1 {
+  color: #333;
+}
+
+footer {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 10px;
+  text-align: flex;
+}
+
